@@ -1,6 +1,6 @@
 ---
-title: "Qemouflage: Operating From a Layer the EDR Was Never Built to Inspect"
-description: "A deep dive into qemouflage, a Red Team tool that deploys a fully provisioned Alpine Linux VM inside QEMU on Windows with no UAC prompt, no admin privileges, and pure TCG emulation. A modern take on Living off the Land with virtual machines."
+title: "Qemouflage: Beyond the EDR's Reach"
+description: "A Linux VM inside QEMU on Windows, no admin rights, no EDR visibility. Pure TCG emulation."
 date: 2026-06-26 12:00:00 +0200
 categories: [Red Team, Tooling]
 tags: [red-team, qemu, evasion, windows, linux, cloud-init, c2, lotl, living-off-the-land]
